@@ -10,7 +10,6 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
 
 ## Commands
 
-## hello
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
